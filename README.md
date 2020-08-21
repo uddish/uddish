@@ -10,7 +10,7 @@
 - ⚡  Fun fact: I love to play piano(I am not good at it 🤣)
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mwzsq1a2ghd7ycis36nw84ah1)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/41QjOoffs3nC7bKb2QvbDx)
 
 ### Connect with me:
 
