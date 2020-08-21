@@ -4,13 +4,13 @@
 
 ## I'm a Fullstack Developer!
 
-- 🔭 I’m currently working React Native!
-- 🌱 Loves Mobile Development
-- 🥅 2020 Goals: Read more, write more
-- ⚡ Fun fact: I love to play piano(I am not good at it 🤣)
+- 🔭  I’m currently working React Native!
+- 🌱  Loves Mobile Development
+- 🥅  2020 Goals: Read more, write more
+- ⚡  Fun fact: I love to play piano(I am not good at it 🤣)
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mwzsq1a2ghd7ycis36nw84ah1)
 
 ### Connect with me:
 
