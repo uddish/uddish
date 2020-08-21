@@ -1,6 +1,6 @@
 ### Hi there, I'm Uddish - aka [KampusKing][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://uddish.github.io)
+[![Website](https://img.shields.io/website?label=uddish.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://uddish.github.io)
 
 ## I'm a Fullstack Developer!
 
@@ -10,7 +10,7 @@
 - ⚡  Fun fact: I love to play piano(I am not good at it 🤣)
 
 ### Spotify Playing 🎧
-[<img src="https://ibb.co/JynL9Xb" alt="uddish Spotify Playing" width="350" />](https://open.spotify.com/playlist/41QjOoffs3nC7bKb2QvbDx)
+[<img src="img" alt="uddish Spotify Playing" width="350" />](https://open.spotify.com/playlist/41QjOoffs3nC7bKb2QvbDx)
 
 ### Connect with me:
 
