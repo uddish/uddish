@@ -10,7 +10,7 @@
 - ⚡  Fun fact: I love to play piano(I am not good at it 🤣)
 
 ### Spotify Playing 🎧
-[<img src="img" alt="uddish Spotify Playing" width="350" />](https://open.spotify.com/playlist/41QjOoffs3nC7bKb2QvbDx)
+[<img src="https://i.ibb.co/X3XBqmd/Screenshot-2020-08-22-at-1-14-52-AM.png" alt="uddish Spotify Playing" width="350" />](https://open.spotify.com/playlist/41QjOoffs3nC7bKb2QvbDx)
 
 ### Connect with me:
 
