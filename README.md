@@ -4,7 +4,7 @@
 
 ## I'm a Product Engineer!
 
-- 🔭 &nbsp; I’m currently on working React Native!
+- 🔭 &nbsp; I’m currently working on React Native!
 - 📱 &nbsp; Mobile: React Native, Android, iOS
 - 🌐 &nbsp; Backend: Django
 - 💻 &nbsp; Web: HTML, CSS, ReactJS
