@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=uddish.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://uddish.github.io)
 
-## I'm a Fullstack Developer!
+## I'm a Product Engineer!
 
 - 🔭 &nbsp; I’m currently on working React Native!
 - 📱 &nbsp; Mobile: React Native, Android, iOS
