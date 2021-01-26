@@ -9,7 +9,7 @@
 - 🌐 &nbsp; Backend: Django
 - 💻 &nbsp; Web: HTML, CSS, ReactJS
 - 🥅 &nbsp; 2020 Goals: Read more, write more
-- ⚡  &nbsp;Fun fact: I love to play piano( I am not good at it 🤣 )
+- ⚡  &nbsp;Fun fact: I love to play the piano
 
 ### Spotify Playing 🎧
 [<img src="https://i.ibb.co/X3XBqmd/Screenshot-2020-08-22-at-1-14-52-AM.png" alt="uddish Spotify Playing" width="350" />](https://open.spotify.com/playlist/41QjOoffs3nC7bKb2QvbDx)
