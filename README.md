@@ -8,7 +8,7 @@
 - 📱 &nbsp; Mobile: React Native, Android, iOS
 - 🌐 &nbsp; Backend: Django
 - 💻 &nbsp; Web: HTML, CSS, ReactJS
-- 🥅 &nbsp; 2020 Goals: Read more, write more
+- 🥅 &nbsp; 2021 Goals: Read more, write more
 - ⚡  &nbsp;Fun fact: I love to play the piano
 
 ### Spotify Playing 🎧
