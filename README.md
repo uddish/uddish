@@ -54,7 +54,7 @@
 
 <!-- <details> -->
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=uddish&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=uddish&show_icons=true&theme=tokyonight&hide_rank=true" />
 
 <!-- </details> -->
 
