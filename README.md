@@ -5,10 +5,10 @@
 ## I'm a Product Engineer!
 
 - 🔭 &nbsp; I’m currently working on Ruby on Rails, React and Ember!
-- 📱 &nbsp; Mobile: React Native, Android, iOS
+- 📱 &nbsp; Mobile: React Native
 - 🌐 &nbsp; Backend: Django, Ruby
 - 💻 &nbsp; Web: HTML, CSS, ReactJS, Ember
-- 🥅 &nbsp; 2023 Goals: Read more, write more
+- 🥅 &nbsp; 2024 Goals: Read more, write more
 - ⚡  &nbsp;Fun fact: I love to play the piano
 
 ### Spotify Playing 🎧
